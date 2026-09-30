@@ -68,14 +68,14 @@ PowerPoint Control
 
 ## Technologies Used
 
-Python
-OpenCV
-MediaPipe
-PyAutoGUI
-SpeechRecognition
-PyAudio
-Pillow (PIL)
-Microsoft PowerPoint
+- Python
+- OpenCV
+- MediaPipe
+- PyAutoGUI
+- SpeechRecognition
+- PyAudio
+- Pillow (PIL)
+- Microsoft PowerPoint
 
 ## Project Structure
 
@@ -150,6 +150,6 @@ Advanced presentation assistance features
 
 ## Author
 
-
 MANIKUZHALI DEVAKUMAR
 Electronics and Communication Engineering Student
+
