@@ -50,9 +50,11 @@ Gesture Recognition
 PyAutoGUI
    ↓
 PowerPoint Keyboard Control
+```
 
 Voice control operates alongside the gesture system:
 
+```text
 Microphone
    ↓
 SpeechRecognition / PyAudio
@@ -62,8 +64,10 @@ Voice Command Detection
 PyAutoGUI
    ↓
 PowerPoint Control
+```
 
-Technologies Used
+## Technologies Used
+
 Python
 OpenCV
 MediaPipe
@@ -73,7 +77,7 @@ PyAudio
 Pillow (PIL)
 Microsoft PowerPoint
 
-Project Structure
+## Project Structure
 
 Gesture-PowerPoint-Controller/
 │
@@ -84,11 +88,13 @@ Gesture-PowerPoint-Controller/
 ├── README.md
 └── .gitignore
 
-Installation
+## Installation
+
 Install the required Python packages:
 
 pip install opencv-python mediapipe pyautogui pillow SpeechRecognition PyAudio
-How to Run
+
+## How to Run
 
 Open the project folder in a terminal and run:
 
@@ -116,7 +122,8 @@ Use the exit voice command to stop voice control.
 
 ![PowerPoint and Voice Control](screenshots/powerpoint-voice-control.png)
 
-Results
+## Results
+
 The system was tested with a real PowerPoint presentation and successfully performed:
 Next slide using hand gestures
 Previous slide using hand gestures
@@ -126,20 +133,23 @@ Previous slide using voice
 Resume using voice
 Voice-controlled exit
 
-Limitations
+## Limitations
+
 Voice recognition depends on microphone quality and speech clarity.
 Speech recognition may occasionally fail to understand a command.
 Gesture detection depends on camera positioning and visibility of the hands.
 The controller requires a webcam and microphone.
 
-Future Scope
+## Future Scope
+
 Additional presentation commands
 Improved voice recognition
 More gesture customization
 Support for additional presentation software
 Advanced presentation assistance features
-Author
+
+## Author
+
 
 MANIKUZHALI DEVAKUMAR
-
 Electronics and Communication Engineering Student
