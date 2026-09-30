@@ -102,6 +102,20 @@ Perform the two-hand activation gesture.
 Use hand gestures or voice commands to control the presentation.
 Use the exit voice command to stop voice control.
 
+## Screenshots
+
+### HUD Interface
+
+![HUD Interface](screenshots/hud-interface.png)
+
+### Gesture Detection
+
+![Gesture Detection](screenshots/gesture-detection.png)
+
+### PowerPoint & Voice Control
+
+![PowerPoint and Voice Control](screenshots/powerpoint-voice-control.png)
+
 Results
 The system was tested with a real PowerPoint presentation and successfully performed:
 Next slide using hand gestures
